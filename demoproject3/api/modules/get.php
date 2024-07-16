@@ -65,7 +65,7 @@ class Get extends GlobalMethods {
 
     public function getApiKeyAndUrl() {
         return [
-            'apiKey' => '19810555296f4c97b0b131943241307',
+            'apiKey' => '',
             'apiUrl' => 'http://api.weatherapi.com/v1/forecast.json'
         ];
     }
